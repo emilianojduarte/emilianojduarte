@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilianojduarte" alt="emilianojduarte" /></a> </p>
 
-- 🔭 I’m currently working on [SYSTEMMEDIUM](emilianojduarte.github.io/systemmedium/)
+- 🔭 I’m currently working on various personal proyects
 
-- 🌱 I’m currently learning **JavaScript, React, and Backend**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **emilianojduarte@gmail.com**
 
